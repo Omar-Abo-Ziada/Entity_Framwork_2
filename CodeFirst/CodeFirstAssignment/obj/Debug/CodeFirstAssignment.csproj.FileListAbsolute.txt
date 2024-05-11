@@ -1,0 +1,2 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day12\CodeFirst\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\our Entity Framwork\Day12\CodeFirst\CodeFirstAssignment\obj\Debug\CodeFirstAssignment.csproj.CoreCompileInputs.cache
